@@ -1,0 +1,19 @@
+<style>
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .restaurant{
+        text-align: center;
+    }
+    img{
+        width: 700px;
+    }
+    span{
+        color: red;
+    }
+    p{
+        text-align-last: center;
+    }
+</style>
